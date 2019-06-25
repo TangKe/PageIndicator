@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!--Tab样式-->
+    <style name="Widget.PageIndicator" parent="Widget.TabLayout" />
+
+    <!--Tab样式, Tab不足的时候, 不均分, 且Tab居中显示-->
+    <style name="Widget.PageIndicator.InTitle" parent="Widget.TabLayout.InTitle" />
+
+    <!--底部导航样式-->
+    <style name="Widget.PageIndicator.Navigation" parent="Widget.TabLayout.Navigation" />
+</resources>
